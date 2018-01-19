@@ -22,3 +22,10 @@ output of this tool is for informational purposes only and not intended to be
 an official or certified report. The tool does require root-level privileges
 to function properly.
 ~~~~
+
+
+
+
+TODO: add more tests
+https://wiki.corp.mongodb.com/pages/viewpage.action?spaceKey=cs&title=mdiag+cheat+sheet
+
